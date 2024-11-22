@@ -2,7 +2,7 @@
 - 👀 I’m interested in macroeconomics, specifically topics relating to international trade and climate risk. I also have interests in labor economics, spatial statistics and Bayesian methods.
 - 🌱 I’m currently learning about text modelling and image classification.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have every Stevie Wonder album on vinyl!
+
 
 <!---
 dawncca/dawncca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
